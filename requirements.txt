@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+torch
+transformers
+fastapi
+uvicorn
+shap
+requests
+beautifulsoup4
+newspaper3k
+trafilatura
+textblob
+vaderSentiment
+matplotlib
+tqdm
+joblib
